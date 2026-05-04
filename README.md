@@ -34,4 +34,10 @@ Como ingeniero, sé que subir scripts no siempre es lo más eficiente para despl
 2. Luego corre el `2_Creacion_DW.sql` para habilitar la parte de análisis[cite: 1].
 3. Si prefieres usar Visual Studio, puedes importar el proyecto completo que subí aquí[cite: 1].
 
-Espero que el diseño les parezca coherente con lo que se busca en este diplomado. ¡Cualquier duda, aquí están mis scripts!
+#### Diagrama de Entidad-Relación (ER)
+![Modelo ER](./Diagrama_ER_OLTP.png)
+
+**Nota sobre el diseño:** 
+Si revisan el diagrama, verán que la tabla **Tecnicos** aparece "suelta". Esto es una decisión de diseño propia: como instructor de mantenimiento, sé que el registro de personal es vital, pero para el alcance de este módulo quise priorizar el flujo de caja y movimiento de repuestos (Ventas y Detalles). La tabla de Técnicos ya está creada y con sus 20 registros[cite: 1], lista para que en una "Fase 2" del proyecto se vincule con una tabla de 'Órdenes de Reparación' que no era obligatoria para esta entrega.
+
+Espero que el diseño les parezca coherente con lo que se busca en este modulo.
