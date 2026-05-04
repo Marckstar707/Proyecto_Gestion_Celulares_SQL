@@ -1,4 +1,4 @@
-# Mi Proyecto: Gestión de Datos para Soporte Técnico y Repuestos 📱
+# Mi Proyecto: Gestión de Datos para Soporte Técnico y Repuestos 
 **Por: Rodrigo Huanca Maldonado**
 
 ### Un poco sobre el proyecto
@@ -8,7 +8,7 @@ He diseñado esta base de datos pensando en cómo funciona un negocio de verdad:
 
 ---
 
-## 🛠️ ¿Qué incluye mi trabajo?
+## ¿Qué incluye mi trabajo?
 
 ### 1. La Base de Datos (OLTP) - Archivo: 1_Creacion_OLTP.sql
 Aquí me enfoqué en que la estructura sea sólida. Apliqué **Tercera Forma Normal (3FN)** para evitar que los datos se repitan. 
@@ -29,7 +29,7 @@ Como ingeniero, sé que subir scripts no siempre es lo más eficiente para despl
 
 ---
 
-## 🚀 Cómo ponerlo a correr
+## Cómo ponerlo a correr
 1. Primero corre el script `1_Creacion_OLTP.sql` para crear el sistema base[cite: 1].
 2. Luego corre el `2_Creacion_DW.sql` para habilitar la parte de análisis[cite: 1].
 3. Si prefieres usar Visual Studio, puedes importar el proyecto completo que subí aquí[cite: 1].
