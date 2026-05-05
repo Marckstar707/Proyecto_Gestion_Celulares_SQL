@@ -1,4 +1,4 @@
-# 📊 Portafolio de Ingeniería de Datos - Módulo 2
+# Diseño de base de datos 2.2 - Módulo 2
 **Estudiante:** Rodrigo Huanca Maldonado  
 **Especialidad:** Ingeniería de Sistemas  
 **Ubicación:** Cochabamba, Bolivia  
@@ -14,13 +14,13 @@ Mi objetivo ha sido demostrar no solo el dominio de las herramientas SQL, sino t
 
 ## 📂 Contenido del Proyecto
 
-### 📱 1. Gestión de Celulares (Proyecto de Especialidad)
+### 1. Gestión de Celulares (Proyecto de Especialidad)
 Como instructor técnico y especialista en hardware, inicié este módulo modelando una solución orientada al control de inventarios y reparaciones.
 *   **Enfoque:** Base de datos transaccional (OLTP).
 *   **Aporte:** Diseño de tablas para gestión de componentes, microsoldadura y mantenimiento de software.
 *   **Estado:** Documentado en su respectiva carpeta.
 
-### 🏢 2. Northwind Data Warehouse (Proyecto Requerido)
+### 2. Northwind Data Warehouse (Proyecto Requerido)
 Para cumplir con la rúbrica final del módulo, implementé un Almacén de Datos (DW) utilizando la base de datos Northwind como fuente de origen.
 *   **Arquitectura:** Modelo Estrella (Star Schema) con Tablas de Hechos y Dimensiones.
 *   **Hitos Técnicos:**
