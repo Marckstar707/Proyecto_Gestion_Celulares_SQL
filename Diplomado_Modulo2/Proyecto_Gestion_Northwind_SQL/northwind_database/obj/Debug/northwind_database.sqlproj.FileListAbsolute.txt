@@ -1,0 +1,10 @@
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\bin\Debug\northwind_database.dacpac
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\bin\Debug\northwind_database.dll
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\bin\Debug\northwind_database.pdb
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\northwind_database.sqlproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\Model.xml
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\refactor.xml
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\postdeploy.sql
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\predeploy.sql
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\northwind_database.dll
+C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\obj\Debug\northwind_database.pdb

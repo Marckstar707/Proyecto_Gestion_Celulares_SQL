@@ -1,43 +1,38 @@
-# Mi Proyecto: Gestión de Datos para Soporte Técnico y Repuestos 
-**Por: Rodrigo Huanca Maldonado**
-
-### Un poco sobre el proyecto
-Este trabajo nace de mi experiencia diaria como ingeniero e instructor en el área de mantenimiento de celulares. En el día a día del taller, la desorganización de repuestos y el seguimiento de técnicos es un problema real, por eso decidí enfocar mi proyecto del Módulo 2 en solucionar esto usando SQL Server.
-
-He diseñado esta base de datos pensando en cómo funciona un negocio de verdad: desde que entra un cliente buscando una pantalla, hasta que el técnico termina la reparación y necesitamos analizar si ese repuesto tiene buena rotación.
+# 📊 Portafolio de Ingeniería de Datos - Módulo 2
+**Estudiante:** Rodrigo Huanca Maldonado  
+**Especialidad:** Ingeniería de Sistemas  
+**Ubicación:** Cochabamba, Bolivia  
 
 ---
 
-## ¿Qué incluye mi trabajo?
+## 📝 Presentación del Repositorio
+Este espacio documenta el desarrollo técnico y académico correspondiente al segundo módulo del **Diplomado en Data Science**. El contenido se divide en dos enfoques: la aplicación práctica en un entorno real de mi especialidad (Mantenimiento de Celulares) y el cumplimiento de los requerimientos analíticos basados en el caso de estudio internacional **Northwind**.
 
-### 1. La Base de Datos (OLTP) - Archivo: 1_Creacion_OLTP.sql
-Aquí me enfoqué en que la estructura sea sólida. Apliqué **Tercera Forma Normal (3FN)** para evitar que los datos se repitan. 
-* Registré categorías reales como: Pantallas, Baterías, Pines de Carga, etc.
-* Creé una tabla de **Técnicos** (donde me incluí como primer técnico) y una de **Productos** con control de stock.
-* Las tablas están relacionadas para que no se pierda ninguna venta ni detalle.
-* Le puse **20 registros de prueba** para que puedas ver cómo se mueven los datos[cite: 1].
-
-### 2. Análisis de Datos (Data Warehouse) - Archivo: 2_Creacion_DW.sql
-Para la parte de Business Intelligence, armé un modelo en **Estrella**. La idea es que el dueño del taller pueda ver reportes rápidos:
-* ¿Quién es nuestro mejor cliente?
-* ¿Qué mes se vendieron más repuestos?
-* ¿Qué categoría es la que más dinero genera?
-Uso una tabla de hechos (`Fact_Ventas`) y dimensiones de productos, clientes y tiempo[cite: 1].
-
-### 3. Proyecto DACPAC
-Como ingeniero, sé que subir scripts no siempre es lo más eficiente para desplegar. Por eso, generé el proyecto en **Visual Studio 2022** y empaqueté todo en un archivo `.dacpac` (lo encuentras en `bin/Debug`). Es la forma profesional de mover esta base de datos a producción[cite: 1].
+Mi objetivo ha sido demostrar no solo el dominio de las herramientas SQL, sino también la capacidad de adaptar soluciones técnicas a diferentes dominios de negocio.
 
 ---
 
-## Cómo ponerlo a correr
-1. Primero corre el script `1_Creacion_OLTP.sql` para crear el sistema base[cite: 1].
-2. Luego corre el `2_Creacion_DW.sql` para habilitar la parte de análisis[cite: 1].
-3. Si prefieres usar Visual Studio, puedes importar el proyecto completo que subí aquí[cite: 1].
+## 📂 Contenido del Proyecto
 
-#### Diagrama de Entidad-Relación (ER)
-![Modelo ER](./Diagrama_ER_OLTP.png)
+### 📱 1. Gestión de Celulares (Proyecto de Especialidad)
+Como instructor técnico y especialista en hardware, inicié este módulo modelando una solución orientada al control de inventarios y reparaciones.
+*   **Enfoque:** Base de datos transaccional (OLTP).
+*   **Aporte:** Diseño de tablas para gestión de componentes, microsoldadura y mantenimiento de software.
+*   **Estado:** Documentado en su respectiva carpeta.
 
-**Nota sobre el diseño:** 
-Si revisan el diagrama, verán que la tabla **Tecnicos** aparece "suelta". Esto es una decisión de diseño propia: como instructor de mantenimiento, sé que el registro de personal es vital, pero para el alcance de este módulo quise priorizar el flujo de caja y movimiento de repuestos (Ventas y Detalles). La tabla de Técnicos ya está creada y con sus 20 registros[cite: 1], lista para que en una "Fase 2" del proyecto se vincule con una tabla de 'Órdenes de Reparación' que no era obligatoria para esta entrega.
+### 🏢 2. Northwind Data Warehouse (Proyecto Requerido)
+Para cumplir con la rúbrica final del módulo, implementé un Almacén de Datos (DW) utilizando la base de datos Northwind como fuente de origen.
+*   **Arquitectura:** Modelo Estrella (Star Schema) con Tablas de Hechos y Dimensiones.
+*   **Hitos Técnicos:**
+    *   **Proceso ETL:** Carga automatizada de datos reales (mínimo 25 registros por tabla).
+    *   **Gestión de Errores:** Resolución de conflictos de *Collation* (cotejamiento) mediante `DATABASE_DEFAULT`.
+    *   **DACPAC:** Generación de paquete de despliegue profesional a través de Visual Studio.
 
-Espero que el diseño les parezca coherente con lo que se busca en este modulo.
+---
+
+## 🛠️ Stack Tecnológico
+*   **Motor:** SQL Server Management Studio (SSMS).
+*   **Modelado:** Visual Studio 2022 (SQL Server Data Tools).
+*   **Control de Versiones:** Git / GitHub.
+
+---

@@ -1,0 +1,90 @@
+5/5/2026 15:14:28	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'northwind_database' del equipo 'RODRIGO' por el usuario 'Rodrigo'.
+5/5/2026 15:14:28	Se inició la importación del esquema de la base de datos.
+5/5/2026 15:14:49	Recopilando credenciales de la base de datos
+5/5/2026 15:14:49	Recopilando opciones de base de datos
+5/5/2026 15:14:49	Recopilando la opción de configuración de ámbito de la base de datos genérica
+5/5/2026 15:14:49	Recopilando usuarios
+5/5/2026 15:14:49	Recopilando roles
+5/5/2026 15:14:49	Recopilando roles de aplicación
+5/5/2026 15:14:49	Recopilando pertenencias a roles
+5/5/2026 15:14:49	Recopilando grupos de archivos
+5/5/2026 15:14:49	Recopilando catálogos de texto completo
+5/5/2026 15:14:49	Recopilando ensamblados
+5/5/2026 15:14:49	Recopilando certificados
+5/5/2026 15:14:49	Recopilando claves asimétricas
+5/5/2026 15:14:49	Recopilando claves simétricas
+5/5/2026 15:14:49	Recopilando claves simétricas cifradas
+5/5/2026 15:14:49	Recopilando esquemas
+5/5/2026 15:14:49	Recopilando colecciones de esquemas XML
+5/5/2026 15:14:49	Recopilando tipos de datos definidos por el usuario
+5/5/2026 15:14:49	Recopilando tipos definidos por el usuario
+5/5/2026 15:14:49	Recopilando tipos de tabla
+5/5/2026 15:14:49	Recopilando claves únicas para tipos de tabla
+5/5/2026 15:14:49	Recopilando claves principales para tipos de tabla
+5/5/2026 15:14:49	Recopilando índices para tipos de tablas
+5/5/2026 15:14:49	Recopilando restricciones CHECK para tipos de tabla
+5/5/2026 15:14:49	Recopilando restricciones DEFAULT para tipos de tabla
+5/5/2026 15:14:49	Recopilando funciones de partición
+5/5/2026 15:14:49	Recopilando esquemas de partición
+5/5/2026 15:14:49	Recopilando funciones
+5/5/2026 15:14:49	Recopilando funciones cifradas
+5/5/2026 15:14:49	Recopilando agregados
+5/5/2026 15:14:49	Recopilando procedimientos
+5/5/2026 15:14:49	Recopilando procedimientos cifrados
+5/5/2026 15:14:49	Recopilando tablas
+5/5/2026 15:14:49	Recopilando claves principales
+5/5/2026 15:14:49	Recopilando restricciones UNIQUE
+5/5/2026 15:14:49	Recopilando claves externas
+5/5/2026 15:14:49	Recopilando restricciones DEFAULT
+5/5/2026 15:14:49	Recopilando restricciones CHECK
+5/5/2026 15:14:49	Recopilando vistas
+5/5/2026 15:14:49	Recopilando vistas cifradas
+5/5/2026 15:14:49	Recopilando índices
+5/5/2026 15:14:49	Recopilando estadísticas
+5/5/2026 15:14:49	Recopilando listas de palabras irrelevantes de índices de texto completo
+5/5/2026 15:14:49	Recopilando listas de propiedades de búsqueda
+5/5/2026 15:14:49	Recopilando propiedades de búsqueda
+5/5/2026 15:14:49	Recopilando índices de texto completo
+5/5/2026 15:14:49	Recopilando índices de almacenamiento de columnas
+5/5/2026 15:14:49	Recopilando índices espaciales
+5/5/2026 15:14:49	Recopilando índices XML
+5/5/2026 15:14:49	Recolección de índices JSON
+5/5/2026 15:14:49	Recopilando índices XML selectivos
+5/5/2026 15:14:49	Recopilando desencadenadores cifrados
+5/5/2026 15:14:49	Recopilando desencadenadores
+5/5/2026 15:14:49	Recopilando DDL triggers cifrados y de CLR
+5/5/2026 15:14:49	Recopilando DDL triggers
+5/5/2026 15:14:49	Creación de la restricción perimetral en curso
+5/5/2026 15:14:49	Recopilando sinónimos
+5/5/2026 15:14:49	Recopilando valores predeterminados
+5/5/2026 15:14:49	Recopilando enlaces UDDT de restricción de datos
+5/5/2026 15:14:49	Recopilando reglas
+5/5/2026 15:14:49	Recopilando enlaces UDDT de restricción de datos
+5/5/2026 15:14:49	Recopilando tipos de mensaje
+5/5/2026 15:14:49	Recopilando colas
+5/5/2026 15:14:49	Recopilando contratos
+5/5/2026 15:14:49	Recopilando servicios
+5/5/2026 15:14:49	Recopilando notificaciones de eventos
+5/5/2026 15:14:49	Recopilando enlaces de servicio remoto
+5/5/2026 15:14:49	Recopilando prioridades de Broker
+5/5/2026 15:14:49	Recopilando firmas
+5/5/2026 15:14:49	Recopilando opciones de compresión
+5/5/2026 15:14:49	Recopilando tipos de secuencia
+5/5/2026 15:14:49	Recopilando directivas de seguridad
+5/5/2026 15:14:49	Recopilar claves de cifrado de columna
+5/5/2026 15:14:49	Recopilando claves maestras de columna
+5/5/2026 15:14:49	Recopilando orígenes de datos externos
+5/5/2026 15:14:49	Recopilando formatos de archivo externos
+5/5/2026 15:14:49	Recopilando modelos externos
+5/5/2026 15:14:49	Recopilando tablas externas
+5/5/2026 15:14:49	Recopilando opciones de compresión de índice XML
+5/5/2026 15:14:49	Recopilando propiedades extendidas
+5/5/2026 15:14:49	Recopilando ensamblados
+5/5/2026 15:14:50	Recopilando credenciales
+5/5/2026 15:14:50	Recopilando inicios de sesión
+5/5/2026 15:14:50	Recopilando auditorías de servidor
+5/5/2026 15:14:50	Buscando elementos duplicados en el proyecto
+5/5/2026 15:14:50	Ha finalizado el procesamiento de los elementos duplicados
+5/5/2026 15:14:51	Finalizó la importación de la base de datos.
+5/5/2026 15:14:51	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\Edgar\Desktop\Modulo 2_tarera\northwind_database\Registros de importación de esquemas\northwind_database_20260505071428.log
+5/5/2026 15:14:51	Haga clic en Finalizar para continuar...

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="northwind_database.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
