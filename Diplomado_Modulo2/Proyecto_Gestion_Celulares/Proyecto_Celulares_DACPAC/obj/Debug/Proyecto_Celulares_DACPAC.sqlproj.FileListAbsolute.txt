@@ -1,0 +1,10 @@
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\bin\Debug\Proyecto_Celulares_DACPAC.dacpac
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\bin\Debug\Proyecto_Celulares_DACPAC.dll
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\bin\Debug\Proyecto_Celulares_DACPAC.pdb
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\Proyecto_Celulares_DACPAC.sqlproj.AssemblyReference.cache
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\Model.xml
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\refactor.xml
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\postdeploy.sql
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\predeploy.sql
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\Proyecto_Celulares_DACPAC.dll
+C:\Users\Edgar\Desktop\Modulo 2_tarera\Proyecto_Celulares_DACPAC\obj\Debug\Proyecto_Celulares_DACPAC.pdb

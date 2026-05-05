@@ -4,8 +4,8 @@
 
 ---
 
-## Descripción del Proyecto
-Este proyecto consiste en la transformación de una base de datos transaccional (OLTP) a un modelo analítico (Data Warehouse) utilizando el conjunto de datos de **Northwind Traders**. El objetivo es facilitar la toma de decisiones estratégicas mediante una estructura optimizada para consultas de inteligencia de negocios.
+## Descripción del Caso
+Este Caso consiste en la transformación de una base de datos transaccional (OLTP) a un modelo analítico (Data Warehouse) utilizando el conjunto de datos de **Northwind Traders**. El objetivo es facilitar la toma de decisiones estratégicas mediante una estructura optimizada para consultas de inteligencia de negocios.
 
 ---
 
